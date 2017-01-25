@@ -1,10 +1,10 @@
-package com.tcs.impl;
+package com.prashast.impl;
 
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
-import com.tcs.model.Address;
-import com.tcs.model.Foo;
-import com.tcs.model.Person;
+import com.prashast.model.Address;
+import com.prashast.model.Foo;
+import com.prashast.model.Person;
 import java.lang.reflect.Modifier;
 import java.lang.reflect.Type;
 import java.util.ArrayList;

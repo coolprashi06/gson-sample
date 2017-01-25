@@ -1,4 +1,4 @@
-package com.tcs.model;
+package com.prashast.model;
 
 import com.google.gson.annotations.SerializedName;
 import com.google.gson.annotations.Expose;

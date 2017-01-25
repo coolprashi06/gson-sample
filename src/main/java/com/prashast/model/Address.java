@@ -1,4 +1,4 @@
-package com.tcs.model;
+package com.prashast.model;
 
 
 public class Address {
